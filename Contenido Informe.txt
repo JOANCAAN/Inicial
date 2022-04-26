@@ -13,6 +13,11 @@ Proyectos
 Financiero
 ----------
 Estados Financieros y Ejecución Presupuestal
-Pagos
-Cartera Juridico - Admin - Acuerdos
+Pagos y Tesoreria
+Cartera
+-------
+Cartera Grandes Morosos
+Cartera Morosos
+Seguimiento a Acuerdos
+Propuesta Acuerdos
 Impuestos Medios Magneticos
